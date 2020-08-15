@@ -1,0 +1,9 @@
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\bin\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.deps.json
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\bin\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.dll
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.csprojAssemblyReference.cache
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.AssemblyInfoInputs.cache
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.AssemblyInfo.cs
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\bin\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.pdb
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.dll
+C:\Users\dper\source\repos\AwsomeShop\AwsomeShop.AzureQueueLibrary\obj\Debug\netcoreapp3.1\AwsomeShop.AzureQueueLibrary.pdb
